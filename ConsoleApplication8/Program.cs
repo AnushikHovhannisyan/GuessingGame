@@ -58,7 +58,7 @@ namespace ConsoleApplication8
             {
                 Console.WriteLine("Congratulations!!! You won!!!!!!!");
             }
-            else if(correct==2)
+            else
             {
                 Console.WriteLine("Game over. You lost.");
             }            
